@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Argumentos", "Calculadora.Argumentos\Calculadora.Argumentos.csproj", "{55EA9026-7AEB-41FA-96FF-CDCE7A3C6F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Argumentos.Testing", "Calculadora.Argumentos.Testing\Calculadora.Argumentos.Testing.csproj", "{34215732-567F-463E-843D-78AEE8B4A4C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34215732-567F-463E-843D-78AEE8B4A4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34215732-567F-463E-843D-78AEE8B4A4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34215732-567F-463E-843D-78AEE8B4A4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34215732-567F-463E-843D-78AEE8B4A4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EA9026-7AEB-41FA-96FF-CDCE7A3C6F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EA9026-7AEB-41FA-96FF-CDCE7A3C6F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EA9026-7AEB-41FA-96FF-CDCE7A3C6F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EA9026-7AEB-41FA-96FF-CDCE7A3C6F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Calculadora.Argumentos\Calculadora.Argumentos.csproj
+	EndGlobalSection
+EndGlobal
